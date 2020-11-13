@@ -23,7 +23,7 @@ public class DoorStatusFrontLeftTests {
     private String incorrectVehicleId;
 
     @BeforeAll
-    public void saveTestVehicleId() {
+    public void saveTestVehicleIds() {
         vehicleId = "WDB111111ZZZ22222";
         incorrectVehicleId = "x";
     }

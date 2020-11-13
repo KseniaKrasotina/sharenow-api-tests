@@ -15,5 +15,4 @@ public class ExVeError {
         Gson gson = new GsonBuilder().create();
         return gson.fromJson(json, ExVeError.class);
     }
-
 }

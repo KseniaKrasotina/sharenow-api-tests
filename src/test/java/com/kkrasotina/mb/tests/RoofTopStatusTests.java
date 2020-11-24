@@ -14,7 +14,7 @@ import org.junit.jupiter.api.*;
 @DisplayName("Tests for RoofTop status")
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
 
-public class RofTopStatusTests {
+public class RoofTopStatusTests {
 
     private String vehicleId;
     private String incorrectVehicleId;
